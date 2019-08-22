@@ -1,1 +1,1 @@
-# Harry-Potter-proyect
+# Harry-Potter-project
